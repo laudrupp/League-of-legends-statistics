@@ -17,4 +17,4 @@ Step 5: Double click on a match to see your stats
 
 Step 6: Click on Feedback to get analysis of your performance in the match
 
-
+Made by Lauri Järvisalo, Joni Kokko, Mikael Elgström, Jarno Sundström
